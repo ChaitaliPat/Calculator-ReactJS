@@ -1,0 +1,47 @@
+.MainPage{
+    height: 85vh;
+    background-color: #ff5f5f;
+}
+
+.FunctionPart{
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Calculate{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.TextPart{
+    height: 18vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 5vh;
+}
+
+.DisplayBox{
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+
+.Box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    width: 50vh;
+    font-size: 4vh;
+    border: 0.5vh solid #b30707;
+    border-radius: 1vh;
+    color: white;
+}

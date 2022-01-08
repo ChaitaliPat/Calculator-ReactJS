@@ -1,0 +1,19 @@
+.funbtn{
+    width: 10vh;
+    height: 6vh;
+    border: 0.5vh solid #0e6a15;
+    border-radius: 2vh;
+    font-size: 3vh;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.FunctionComp{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
